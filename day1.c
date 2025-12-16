@@ -20,8 +20,8 @@ int main()
     // int divyansh_kuwar = 89;
     // int divyansh_kuwar345678 = 89;
     // int break=89;
-    int aman = 78;
-    printf("%d\n", aman);
-    int AMAN = 67;
-    printf("%d\n", AMAN);
+    // int aman = 78;
+    // printf("%d\n", aman);
+    // int AMAN = 67;
+    // printf("%d\n", AMAN);
 }
