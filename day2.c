@@ -43,4 +43,4 @@ int main()
 // Strings--> Rohan, aman,rahul
 // Integer --> 5,78,45,34,-89,45,-34
 // chararcter--> 7,i,+,#,@
-// float/Double --> 65.78,45.907,
+// float/Double --> 65.78,45.907
