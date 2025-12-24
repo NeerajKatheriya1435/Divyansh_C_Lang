@@ -1,0 +1,112 @@
+
+Thursday January 01 2026, 1.30PM, 2.00PM-5.00PM, KNC301, Computer System Security, COP, 3, Common to B Tech
+Thursday January 01 2026, 9.00AM, 9.30AM-12.30PM, BMBA106, Introduction to Business Analytics & Data Science, REG+COP, 1, MBA-GR
+
+Wednesday January 07 2026, 1.30PM, 2.00PM-5.00PM, KCS301, Data Structure, COP, 3, BT-CS-IT
+Wednesday January 07 2026, 1.30PM, 2.00PM-5.00PM, KEE301, Electromagnetic Field Theory, COP, 3, BT-EE-EN
+Wednesday January 07 2026, 1.30PM, 2.00PM-5.00PM, KME302, Fluid Mechanics & Fluid Machines, COP, 3, BT-ME-GRP
+
+Tuesday January 13 2026, 1.30PM, 2.00PM-5.00PM, KCS302, Computer Organization and Architecture, COP, 3, BT-CS-IT
+Tuesday January 13 2026, 1.30PM, 2.00PM-5.00PM, KEE303, Basic Signals & Systems, COP, 3, BT-EE-EN
+Tuesday January 13 2026, 1.30PM, 2.00PM-5.00PM, KME303, Materials Engineering, COP, 3, BT-ME-GRP
+
+
+Friday January 09 2026, 9.00AM, 9.30AM-12.30PM, BIDV634, Interior Design & Landscape-I, REG+COP, 3, BVOC-ID
+
+Friday January 02 2026, 1.30PM, 2.00PM-5.00PM, KCA021, Web Technology, REG+COP, 3, MCA
+Friday January 02 2026, 9.00AM, 9.30AM-12.30PM, KCS055, Machine Learning Techniques, COP, 5, BT-CS-IT
+Friday January 02 2026, 9.00AM, 9.30AM-12.30PM, KEE055, Optimization Techniques, COP, 5, BT-EE-EN
+Friday January 02 2026, 1.30PM, 2.00PM-5.00PM, KCE070, Railway, Waterway and Airway Engineering, COP, 7, BT-CE-ENV
+Friday January 02 2026, 1.30PM, 2.00PM-5.00PM, KOT078, Architecting Smart IoT Devices COP, 7, BT-CS-IT
+Friday January 02 2026, 1.30PM, 2.00PM-5.00PM, KCH075, Fertilizer Technology, COP, 7, BT-CH-FT
+Friday January 02 2026, 1.30PM, 2.00PM-5.00PM, KEE070, Advanced Micro processors & Micro Controllers, COP, 7, BT-EE-EN
+Friday January 02 2026, 1.30PM, 2.00PM-5.00PM, KEC071, Digital Image Processing, COP, 7, BT-EC-GRP
+Friday January 02 2026, 1.30PM, 2.00PM-5.00PM, MTME011, CAD/CAM REG+COP, 1, MTech-MEG
+Friday January 02 2026, 9.00AM, 9.30AM-12.30PM, BEEZ052, Object Oriented Programming with Java, REG+COP, 5, BT-EE-EN
+Friday January 02 2026, 9.00AM, 9.30AM-12.30PM, BEC055, Electronics Switching, REG+COP, 5, BT-ECZ
+Friday January 02 2026, 9.00AM, 9.30AM-12.30PM, BEC058, CMOS Analog VLSI Design, REG+COP, 5, BT-EC-GRP
+Friday January 02 2026, 9.00AM, 9.30AM-12.30PM, BME 054, Mechatronics Systems, REG+COP, 5, BT-ME-GRP
+Friday January 02 2026, 1.30PM, 2.00PM-5.00PM, MTME011, CAD/CAM, REG+COP, 1, MTech-MEG
+Friday January 02 2026, 9.00AM, 9.30AM-12.30PM, BCAM051, Cloud Computing, REG+COP, 5, BT-CS-IT
+
+
+Tuesday January 06 2026, 9.00AM, 9.30AM-12.30PM, KCS502 ,Compiler Design, COP, 5 BT-CS-IT
+Tuesday January 06 2026, 9.00AM, 9.30AM-12.30PM, BSDV633, Web Development using PHP, REG+COP, 3, BVOC-SD
+Tuesday January 06 2026, 9.00AM, 9.30AM-12.30PM, BIDV633, Interior Construction & Structure-II, REG+COP, 3, BVOC-ID
+Tuesday January 06 2026, 9.00AM, 9.30AM-12.30PM, KME502 ,Strength of Material, COP, 5, BT-ME-GRP
+Tuesday January 06 2026, 9.00AM, 9.30AM-12.30PM, BCAI501, Artificial Intelligence REG+COP, 5, BT-CS-IT
+
+
+Wednesday January 07 2026,   9.00AM 9.30AM-12.30PM RCAI041 Distributed Database Systems REG+COP 9 MCA-INT
+
+Thursday, January 08, 2026 9.00AM 9.30AM-12.30PM KCS503 Design and Analysis of Algorithm COP 5 BT-CS-IT
+Thursday, January 08, 2026 9.00AM 9.30AM-12.30PM MKCS055 Machine Learning Techniques COP 5 MTECH-INT
+Thursday, January 08, 2026 9.00AM 9.30AM-12.30PM KCE055 Engineering Hydrology COP 5 BT-CE-ENV
+Thursday, January 08, 2026 9.00AM 9.30AM-12.30PM BEC503 Digital Signal Processing REG+COP 5 BT-EC-GRP
+Thursday, January 08, 2026 9.00AM 9.30AM-12.30PM KME503 Industrial Engineering COP 5 BT-ME-GRP
+
+Friday, January 09, 2026 1.30PM 2.00PM-5.00PM RAR304 ARCHITECTURAL DRAWING - III REG+COP 3 BARCH
+
+
+Monday, January 12, 2026 9.00AM 9.30AM-12.30PM KCE051 Concrete Technology COP 5 BT-CE-ENV
+Monday, January 12, 2026 9.00AM 9.30AM-12.30PM KCS051 Data Analytics COP 5 BT-CS-IT
+Monday, January 12, 2026 9.00AM 9.30AM-12.30PM BEEZ051 Operating System REG+COP 5 BT-EE-EN
+Monday, January 12, 2026 9.00AM 9.30AM-12.30PM KEE051 Robotics COP 5 BT-EE-EN
+Monday, January 12, 2026 9.00AM 9.30AM-12.30PM BEC051 IoT – Architecture, Communication, Technology & its applications REG+COP 5 BT-EC-GRP
+Monday, January 12, 2026 9.00AM 9.30AM-12.30PM BEC051 IoT – Architecture, Communication, Technology & its applications REG+COP 5 BT-ECZ
+Monday, January 12, 2026 9.00AM 9.30AM-12.30PM KME051 Computer Integrated Manufacturing COP 5 BT-ME-GRP
+Monday, January 12, 2026 9.00AM 9.30AM-12.30PM BCCS051 Web & Database Security REG+COP 5 BT-CS-IT
+
+Tuesday, January 13, 2026 1.30PM 2.00PM-5.00PM BCE301 Engineering Mechanics REG 3 BT-CE-ENV
+
+Wednesday, January 14, 2026 9.00AM 9.30AM-12.30PM KCS056 Application of Soft Computing COP 5 BT-CS-IT
+Wednesday, January 14, 2026 9.00AM 9.30AM-12.30PM KCS056 Application of Soft Computing COP 5 BT-CS-IT
+Wednesday, January 14, 2026 9.00AM 9.30AM-12.30PM KML051 Cloud Computing COP 5 BT-CS-IT
+
+Friday, January 16, 2026 9.00AM 9.30AM-12.30PM BCS053 Computer Graphics REG+COP 5 BT-CS-IT
+Friday, January 16, 2026 9.00AM 9.30AM-12.30PM BCS053 Computer Graphics REG+COP 5 BT-EE-EN
+
+
+Monday, January 19, 2026 1.30PM 2.00PM-5.00PM BOE306H Basics Data Structure & Algorithms REG 3 Common to B Tech
+
+Tuesday, December 23, 2025 1.30PM 2.00PM-5.00PM BSDV752 Window Mobile Application Development REG+COP 5 BVOC-SD
+
+Wednesday, December 24, 2025 1.30PM 2.00PM-5.00PM MTCS011 Software Requirement & Specifications REG+COP 1 MTech-CSE
+Wednesday, December 24, 2025 1.30PM 2.00PM-5.00PM MTCS012 Software Process & Management REG+COP 1 MTech-CSE
+
+Friday, December 26, 2025 9.00AM 9.30AM-12.30PM RCAE21 Cryptography & N/W Security REG+COP 5 MCA
+Friday, December 26, 2025 9.00AM 9.30AM-12.30PM RCAI104 Business Communication COP 1 MCA-INT
+Monday, December 29, 2025 9.00AM 9.30AM-12.30PM RFAA503 Design & Communication Practices-III COP 5 BFA
+Monday, December 29, 2025 9.00AM 9.30AM-12.30PM RCAE41 Distributed Database Systems REG+COP 5 MCA
+
+
+Tuesday, January 27, 2026 9.00AM 9.30AM-12.30PM MNDS501 Introduction to AI and ML Min 5 Data Science
+Tuesday, January 27, 2026 1.30PM 2.00PM-5.00PM MNDS701 Analysing, Visualizing and Applying Data Science with Python Min 7 Data Science
+
+
+Monday, December 29, 2025 1.30PM 2.00PM-5.00PM KCA011 Cryptography & Network Security REG+COP 3 MCA
+Friday, December 26, 2025 1.30PM 2.00PM-5.00PM MTCS021 Sensor Network REG+COP 1 MTech-CSE
+Monday, December 29, 2025 9.00AM 9.30AM-12.30PM BSDV631 Linux Operating System – Operations and Management REG+COP 3 BVOC-SD
+Monday, December 29, 2025 1.30PM 2.00PM-5.00PM BBC301 Object Oriented Programming in C++ REG 3 BCA
+Monday, December 29, 2025 9.00AM 9.30AM-12.30PM KNC501 Constitution of India, Law and Engineering COP 5 All B TECH
+Monday, December 29, 2025 9.00AM 9.30AM-12.30PM BNC501 Constitution of India REG+COP 5 BT-CS-IT
+
+Tuesday, December 30, 2025 1.30PM 2.00PM-5.00PM KCS303 Discrete Structures & Theory of Logic COP 3 BT-CS-IT
+Tuesday, December 30, 2025 1.30PM 2.00PM-5.00PM REE305 Network Analysis and Synthesis COP 3 BT-EC-GRP
+Tuesday, December 30, 2025 1.30PM 2.00PM-5.00PM KME301 Thermodynamics COP 3 BT-ME-GRP
+Tuesday, December 30, 2025 1.30PM 2.00PM-5.00PM MTME021 Advanced Mechanical Vibrations REG+COP 1 MTech-MEG
+Tuesday, December 30, 2025 1.30PM 2.00PM-5.00PM MTME021 Advanced Mechanical Vibrations REG+COP 1 MTech-MEG
+Tuesday, December 30, 2025 9.00AM 9.30AM-12.30PM BBC103 Problem Solving Using C REG 1 BCA
+
+Wednesday, December 31, 2025 1.30PM 2.00PM-5.00PM MPC203T Computer Aided Drug Design COP 2 MPharm-PC
+Wednesday, December 31, 2025 1.30PM 2.00PM-5.00PM BBC302 Web Technology REG 3 BCA
+Wednesday, December 31, 2025 9.00AM 9.30AM-12.30PM KCS501 Data Base Management System COP 5 BT-CS-IT
+Wednesday, December 31, 2025 1.30PM 2.00PM-5.00PM KCE075 Design of Steel Structures COP 7 BT-CE-ENV
+Wednesday, December 31, 2025 1.30PM 2.00PM-5.00PM KCS071 Artificial Intelligence COP 7 BT-CS-IT
+Wednesday, December 31, 2025 1.30PM 2.00PM-5.00PM KCH071 Energy Engineering & Management COP 7 BT-CH-FT
+Wednesday, December 31, 2025 1.30PM 2.00PM-5.00PM KEE075 Electric drives COP 7 BT-EE-EN
+Wednesday, December 31, 2025 1.30PM 2.00PM-5.00PM KEC075 Information Theory & Coding COP 7 BT-EC-GRP
+Wednesday, December 31, 2025 1.30PM 2.00PM-5.00PM KME071 Additive manufacturing COP 7 BT-ME-GRP
+Wednesday, December 31, 2025 9.00AM 9.30AM-12.30PM MKOE031 Engineering Mechanics COP 3 MTECH-IN
+Wednesday, December 31, 2025 9.00AM 9.30AM-12.30PM BSDV632 Software Engineering REG+COP 3 BVOC-SD
+Wednesday, December 31, 2025 1.30PM 2.00PM-5.00PM KEE077 Power System Protection COP 7 BT-EE-EN
